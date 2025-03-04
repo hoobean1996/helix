@@ -1,0 +1,94 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: postfix
+  namespace: default
+  labels:
+    app: postfix
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: postfix
+  template:
+    metadata:
+      labels:
+        app: postfix
+    spec:
+      containers:
+        - name: postfix
+          image: boky/postfix:latest
+          ports:
+            - containerPort: 25
+              name: smtp
+            - containerPort: 587
+              name: submission
+          env:
+            - name: ALLOWED_SENDER_DOMAINS
+              value: "vmail.today"
+            - name: RELAYHOST
+              value: "vmail.default.svc.cluster.local:25"
+            - name: POSTFIX_myhostname
+              value: "mail.vmail.today"
+            - name: POSTFIX_mydomain
+              value: "vmail.today"
+            - name: POSTFIX_mydestination
+              value: "$myhostname, localhost.$mydomain, localhost"
+            - name: POSTFIX_mynetworks
+              value: "127.0.0.0/8 10.0.0.0/8 172.16.0.0/12 192.168.0.0/16"
+            - name: PERMIT_DOCKER
+              value: "host"
+            - name: POSTFIX_virtual_alias_domains
+              value: "vmail.today"
+            - name: POSTFIX_smtpd_recipient_restrictions
+              value: "permit_mynetworks, permit_sasl_authenticated, reject_unauth_destination"
+            - name: POSTFIX_relay_domains
+              value: "vmail.today"
+            - name: POSTFIX_local_recipient_maps
+              value: ""
+            - name: VIRTUAL_ALIAS_DOMAINS
+              value: "vmail.today:vmail@vmail.default.svc.cluster.local"
+          resources:
+            requests:
+              memory: "256Mi"
+              cpu: "100m"
+            limits:
+              memory: "512Mi"
+              cpu: "500m"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: postfix
+  namespace: default
+spec:
+  selector:
+    app: postfix
+  ports:
+    - port: 25
+      targetPort: 25
+      name: smtp
+    - port: 587
+      targetPort: 587
+      name: submission
+  type: ClusterIP
+---
+# 将Postfix服务暴露到外部
+apiVersion: v1
+kind: Service
+metadata:
+  name: postfix-external
+  namespace: default
+spec:
+  selector:
+    app: postfix
+  ports:
+    - port: 25
+      targetPort: 25
+      nodePort: 30025
+      name: smtp
+    - port: 587
+      targetPort: 587
+      nodePort: 30587
+      name: submission
+  type: NodePort # 在本地环境中使用NodePort

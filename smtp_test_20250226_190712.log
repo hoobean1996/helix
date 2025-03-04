@@ -1,0 +1,2013 @@
+开始测试: Wed 26 Feb 2025 19:07:12 +08
+=============================
+将测试 100 个随机邮箱地址
+服务器: localhost:2525
+=============================
+
+[1/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 82263180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[2/100] 测试邮箱: test.1740568033.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 16F56180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[3/100] 测试邮箱: test.1740568033.Pb@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as A213D180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[4/100] 测试邮箱: test.1740568034.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 36DBF180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[5/100] 测试邮箱: @vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as BF20D180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[6/100] 测试邮箱: temp_006_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 53545180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[7/100] 测试邮箱: test.1740568035.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as DBD83180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[8/100] 测试邮箱: temp_008_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 71578180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[9/100] 测试邮箱: user_uC9@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 06984180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[10/100] 测试邮箱: q.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 9220A180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[11/100] 测试邮箱: @vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 26A55180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[12/100] 测试邮箱: temp_012_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as AFA00180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[13/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 44F40180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[14/100] 测试邮箱: 7k@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as CF69A180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[15/100] 测试邮箱: temp_015_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 611CE180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[16/100] 测试邮箱: @vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as E9253180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[17/100] 测试邮箱: 8@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 7E285180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[18/100] 测试邮箱: l.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 141B3180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[19/100] 测试邮箱: @vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 9B6D8180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[20/100] 测试邮箱: Uj.j@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 31BB8180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[21/100] 测试邮箱: @vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as BAEF6180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[22/100] 测试邮箱: test.1740568044.w@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 51A95180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[23/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as D8B67180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[24/100] 测试邮箱: temp_024_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 6DBE4180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[25/100] 测试邮箱: temp_025_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 03416180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[26/100] 测试邮箱: .P@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 8DDAA180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[27/100] 测试邮箱: .@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 24204180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[28/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as AC042180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[29/100] 测试邮箱: .@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 41B8F180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[30/100] 测试邮箱: @vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as CA9FB180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[31/100] 测试邮箱: test.1740568049.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 61E29180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[32/100] 测试邮箱: Z@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as EB690180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[33/100] 测试邮箱: test.1740568050.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 82736180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[34/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 172D5180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[35/100] 测试邮箱: temp_035_Gg@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as A03A3180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[36/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 34B74180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[37/100] 测试邮箱: .@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as BEC3D180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[38/100] 测试邮箱: temp_038_r9@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 53D02180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[39/100] 测试邮箱: test.1740568053.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as DDD65180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[40/100] 测试邮箱: test.1740568054.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 73D4F180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[41/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 0880A180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[42/100] 测试邮箱: temp_042_k@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 91F9B180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[43/100] 测试邮箱: KI.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 28025180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[44/100] 测试邮箱: temp_044_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as B10FA180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[45/100] 测试邮箱: test.1740568057.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 46DD4180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[46/100] 测试邮箱: .@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as D13A0180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[47/100] 测试邮箱: temp_047_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 66E05180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[48/100] 测试邮箱: test.1740568058.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as F26F2180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[49/100] 测试邮箱: user_G@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 87C57180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[50/100] 测试邮箱: user_oT@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 1D99B180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[51/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as A6B5C180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[52/100] 测试邮箱: user_Q@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 3B8D5180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[53/100] 测试邮箱: temp_053_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as C46B3180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[54/100] 测试邮箱: test.1740568062.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 5A0CF180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[55/100] 测试邮箱: temp_055_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as E35CA180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[56/100] 测试邮箱: test.1740568063.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 77B46180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[57/100] 测试邮箱: temp_057_w@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 0C91A180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[58/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 9477C180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[59/100] 测试邮箱: n@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 27A20180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[60/100] 测试邮箱: temp_060_P@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as B16D2180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[61/100] 测试邮箱: @vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 46BBC180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[62/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as D0028180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[63/100] 测试邮箱: .s@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 6708B180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[64/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as EF577180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[65/100] 测试邮箱: temp_065_9NM@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 84F78180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[66/100] 测试邮箱: temp_066_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 1AD8F180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[67/100] 测试邮箱: test.1740568069.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as A4E73180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[68/100] 测试邮箱: temp_068_7@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 389FD180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[69/100] 测试邮箱: test.1740568070.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as C2E9E180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[70/100] 测试邮箱: temp_070_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 57F69180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[71/100] 测试邮箱: .8hqG@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as E2D3B180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[72/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 76347180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[73/100] 测试邮箱: temp_073_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 0B827180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[74/100] 测试邮箱: .@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 95DEA180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[75/100] 测试邮箱: i.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 2ACBE180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[76/100] 测试邮箱: .@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as B4D03180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[77/100] 测试邮箱: n@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 49A74180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[78/100] 测试邮箱: @vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as D2D9E180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[79/100] 测试邮箱: user_x@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 66508180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[80/100] 测试邮箱: test.1740568076.@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as ED428180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[81/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 81E8A180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[82/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 172BC180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[83/100] 测试邮箱: test.1740568078.U@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as A1AF9180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[84/100] 测试邮箱: temp_084_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 37348180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[85/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as C05F5180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[86/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 55133180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[87/100] 测试邮箱: user_fR@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as DF0DE180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[88/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 7443D180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[89/100] 测试邮箱: temp_089_g@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 0A573180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[90/100] 测试邮箱: user_U@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 9296C180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[91/100] 测试邮箱: O.3@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 2855F180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[92/100] 测试邮箱: @vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as B099D180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[93/100] 测试邮箱: user_f@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 4504B180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[94/100] 测试邮箱: user_h@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as CE202180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[95/100] 测试邮箱: .@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 646B7180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[96/100] 测试邮箱: .N@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as EE618180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[97/100] 测试邮箱: temp_097_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 834CB180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[98/100] 测试邮箱: user_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 1871D180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[99/100] 测试邮箱: .@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as A3DAC180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+[100/100] 测试邮箱: temp_100_@vmail.today
+220 mail.vmail.today ESMTP Postfix (Debian/GNU)
+250-mail.vmail.today
+250-PIPELINING
+250-SIZE
+250-VRFY
+250-ETRN
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-DSN
+250-SMTPUTF8
+250 CHUNKING
+250 2.1.0 Ok
+250 2.1.5 Ok
+354 End data with <CR><LF>.<CR><LF>
+250 2.0.0 Ok: queued as 38646180B98
+221 2.0.0 Bye
+  [32m成功[0m: 邮件已加入队列
+
+=============================
+测试完成: Wed 26 Feb 2025 19:08:08 +08
+总共测试: 100 个邮箱
+[32m成功[0m: 100
+[31m失败[0m: 0
+详细日志已保存到: smtp_test_20250226_190712.log
+=============================

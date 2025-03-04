@@ -1,0 +1,12 @@
+{
+  "rds": {
+    "ProjectName": "test-app",
+    "Env": "test",
+    "Password": "test123456",
+    "Database": "testdb",
+    "RequestCPU": "100m",
+    "RequestMemory": "256Mi",
+    "LimitCPU": "200m",
+    "LimitMemory": "512Mi"
+  }
+}

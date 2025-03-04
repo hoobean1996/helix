@@ -1,0 +1,88 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: vmail
+  namespace: default
+  labels:
+    app: vmail
+    component: mail-service
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: vmail
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 0
+  template:
+    metadata:
+      labels:
+        app: vmail
+        component: mail-service
+    spec:
+      containers:
+        - name: vmail
+          image: vmail:latest
+          imagePullPolicy: IfNotPresent
+          ports:
+            - containerPort: 25
+              name: smtp
+          resources:
+            requests:
+              cpu: 100m
+              memory: 128Mi
+            limits:
+              cpu: 500m
+              memory: 512Mi
+          livenessProbe:
+            tcpSocket:
+              port: 25
+            initialDelaySeconds: 15
+            periodSeconds: 20
+          readinessProbe:
+            tcpSocket:
+              port: 25
+            initialDelaySeconds: 5
+            periodSeconds: 10
+          volumeMounts:
+            - name: config
+              mountPath: /root/vemail.yaml
+              subPath: vemail.yaml
+            - name: data
+              mountPath: /data
+      volumes:
+        - name: config
+          configMap:
+            name: vmail-config
+        - name: data
+          persistentVolumeClaim:
+            claimName: vmail-data
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: vmail-config
+  namespace: default
+data:
+  vemail.yaml: |
+    server:
+      host: "0.0.0.0"
+      port: 25
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: vmail
+  namespace: default
+  labels:
+    app: vmail
+spec:
+  selector:
+    app: vmail
+  ports:
+    - port: 25
+      targetPort: 25
+      name: smtp
+  type: ClusterIP
